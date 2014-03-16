@@ -2,12 +2,22 @@
 layout: post
 title: GitHub初识
 category: blog
-description: xxxx
+tags: 
+- GitHub
+- Jekyll
+- MathJax
+description: A test of Jekyll.
 ---
 
 ## 1
 
-github太geek了，不那么好上手……
+Github有点Geek，不那么好上手……
 
 不过这是个公认的好工具，以后要慢慢熟悉它。
 
+
+## 2
+
+公式显示
+
+$$ E=mc^2 $$
