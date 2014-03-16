@@ -4,7 +4,7 @@ description: GitHub + Jekyll
 category: blog
 ---
 
-# github初识
+## github初识
 
 github太geek了，不那么好上手……
 
