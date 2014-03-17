@@ -5,7 +5,7 @@ category: blog
 description: A test of Jekyll.
 ---
 
-* 本博客Jekyll模板基于[beiyuu](https://github.com/beiyuu/beiyuu.github.com)的源码，在此表示感谢。 *
+> 本博客Jekyll模板基于[beiyuu](https://github.com/beiyuu/beiyuu.github.com)的源码，在此表示感谢。
 
 
 ## 1
