@@ -5,6 +5,9 @@ category: blog
 description: A test of Jekyll.
 ---
 
+* 本博客Jekyll模板基于[beiyuu](https://github.com/beiyuu/beiyuu.github.com)的源码，在此表示感谢。 *
+
+
 ## 1
 
 Github + Jekyll有点Geek，不那么好上手……
@@ -18,4 +21,3 @@ Github + Jekyll有点Geek，不那么好上手……
 
 $$ E=mc^2 $$
 
-*本博客Jekyll模板基于[beiyuu](https://github.com/beiyuu/beiyuu.github.com)的源码，在此表示感谢。*
