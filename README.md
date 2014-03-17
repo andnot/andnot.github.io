@@ -3,9 +3,9 @@ andnot.github.io
 
 andnot's page.
 
-Based on beiyuu's Jekyll code.
+Based on [BeiYuu](https://github.com/beiyuu/beiyuu.github.com)'s Jekyll code.
 
 Markdown powered by redcarpet.
 
-Add MathJax support.
+Add [MathJax support](http://andnot.github.io/mathjax/).
 
