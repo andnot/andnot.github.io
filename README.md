@@ -1,4 +1,6 @@
 andnot.github.io
 ================
 
-andnot's page
+andnot's page.
+
+Based on beiyuu's Jekyll code.

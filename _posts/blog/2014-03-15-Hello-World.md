@@ -2,10 +2,6 @@
 layout: post
 title: Jekyll初识
 category: blog
-tags: 
-- GitHub
-- Jekyll
-- MathJax
 description: A test of Jekyll.
 ---
 
@@ -21,3 +17,5 @@ Github + Jekyll有点Geek，不那么好上手……
 公式显示
 
 $$ E=mc^2 $$
+
+*本博客Jekyll模板基于[beiyuu](https://github.com/beiyuu/beiyuu.github.com)的源码，在此表示感谢。*
