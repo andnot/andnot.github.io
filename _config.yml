@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: ���Сվ
+title: 与非小站
 url: http://andnot.github.io/
 feed: /atom.xml
 author_info: <a href="http://andnot.github.io/">andnot</a>
