@@ -9,3 +9,5 @@ title: 与非小站
 url: http://andnot.github.io/
 feed: /atom.xml
 author_info: <a href="http://andnot.github.io/">andnot</a>
+
+theme: jekyll-theme-time-machine
