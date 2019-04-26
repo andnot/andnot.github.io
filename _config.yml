@@ -10,4 +10,4 @@ url: http://andnot.github.io/
 feed: /atom.xml
 author_info: <a href="http://andnot.github.io/">andnot</a>
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
